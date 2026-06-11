@@ -6,9 +6,9 @@
   <a href="https://jwarzy.ch"><img src="https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
 
-Welcome to my GitHub! I am an **Applied Computer Science MSc Student** at Wrocław University of Science and Technology, deeply passionate about audio technology and AI security. Alongside my academic path, I work as a **Software Tester at Nokia**, where I focus on 5G network infrastructure.
+Welcome to my GitHub! I am an **Applied Computer Science MSc Student** at Wrocław University of Science and Technology and a **Software Tester at Nokia**, where I keep 5G network infrastructure safe.
 
-My primary research and development efforts are dedicated to **speech processing** and **audio deepfake detection**, with a particular emphasis on the effects of telecom channels and codecs.
+My main research focus is on **speech processing** and **audio deepfake detection**, with a particular interest in the effects of telecom channels and codecs.
 
 ---
 
