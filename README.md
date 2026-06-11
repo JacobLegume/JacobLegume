@@ -1,20 +1,31 @@
-# Hello, I'm Jacob! ![Hello gif](hewwo.gif)
-### Let me play some music first
+# Hi, my name is Jakub Warzych (eng: Jacob Legume) ![Hello gif](hewwo.gif)
 
-![Cool Animation](desktop.gif)
+<p align="left">
+  <a href="https://www.linkedin.com/in/jwarzych/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.researchgate.net/profile/Jakub-Warzych"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+  <a href="https://jwarzy.ch"><img src="https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
+</p>
 
+Welcome to my GitHub! I am an **Applied Computer Science MSc Student** at Wrocław University of Science and Technology, deeply passionate about audio technology and AI security. Alongside my academic path, I work as a **Software Tester at Nokia**, where I focus on 5G network infrastructure.
 
-## A little introduction
+My primary research and development efforts are dedicated to **speech processing** and **audio deepfake detection**, with a particular emphasis on the effects of telecom channels and codecs.
 
-🎓 I'm doing a **BEng in Telecommunications**.
+---
 
-🔊 I'm especially interested in **audio**, **signal processing**, and **video quality analysis**.  
+### 🧠 Main Interests
 
-🎞️ I also enjoy video editing, and recently I've been trying to get into animations (like the one above!!!).
+* 🛡️ **Audio Deepfake Detection** _Recognition and security methods_
+* 🔊 **Speech & Signal Processing** _Audio quality analysis and codec effects_
+* 📡 **Telecommunications** _5G network infrastructure and BTS testing_
 
-🚀 Check out some of my favorite projects in pinned repos **OR** browse them all on **[my website](https://jacoblegume.github.io/)**
+---
 
-## Disclaimer
-#### THIS IS A TEST VERSION OF MY README
-#### IF SOMETHING DOES NOT WORK PLEASE
-## DO not PANIC
+### 🤝 Let's Connect
+
+* 👔 [Follow me on LinkedIn](https://www.linkedin.com/in/jwarzych/)
+* 📚 [Check out my publications on ResearchGate](https://www.researchgate.net/profile/Jakub-Warzych)
+* 🌐 [Visit my personal website](https://jwarzy.ch)
+
+---
+
+> *"If you find my projects unmaintained, don't panic. They are probably just getting finished. (**probably**)"* 
